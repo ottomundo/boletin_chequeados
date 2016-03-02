@@ -1,0 +1,297 @@
+{'Alejandro Tullio': {'Total': 1, 'Engañoso': 1}}
+{'Fidel Castro': {'Total': 0}}
+{'Luis Andreotti': {'Total': 0}}
+{'Juan Carlos Gemignani': {'Total': 0}}
+{'Sonia Escudero': {'Total': 1, 'Verdadero': 1}}
+{'Rubén Giustiniani': {'Total': 2, 'Exagerado': 1, 'Verdadero': 1}}
+{'Julián Domínguez': {'Verdadero, pero…': 1, 'Total': 5, 'Exagerado': 1, 'Apresurado': 1, 'Engañoso': 2}}
+{'Mercedes Marcó del Pont': {'Verdadero': 1, 'Total': 3, 'Verdadero, pero…': 2}}
+{'Silvina Batakis': {'Total': 1, 'Verdadero': 1}}
+{'Ricardo Echegaray': {'Total': 1, 'Falso': 1}}
+{'Jorge Mayoral': {'Total': 1, 'Falso': 1}}
+{'Ricardo Colombi': {'Discutible': 1, 'Total': 1}}
+{'Eugenio Burzaco': {'Total': 1, 'Verdadero': 1}}
+{'Artemio López': {'Total': 1, 'Falso': 1}}
+{'Esteban Bullrich': {'Discutible': 1, 'Insostenible': 1, 'Verdadero': 2, 'Falso': 1, 'Verdadero, pero…': 1, 'Total': 7, 'Engañoso': 1}}
+{'Dilma Rousseff': {'Total': 1, 'Verdadero': 1}}
+{'Danilo Astori': {'Discutible': 1, 'Total': 1}}
+{'Alberto Pérez': {'Total': 2, 'Verdadero': 2}}
+{'Daniel Filmus': {'Verdadero': 1, 'Falso': 2, 'Exagerado': 1, 'Verdadero, pero…': 1, 'Total': 5}}
+{'Gildo Insfrán': {'Total': 3, 'Falso': 3}}
+{'Ider Peretti': {'Total': 1, 'Falso': 1}}
+{'Arturo Puricelli': {'Total': 1, 'Engañoso': 1}}
+{'Mario Ishii': {'Total': 1, 'Falso': 1}}
+{'Alicia Kirchner': {'Total': 1, 'Engañoso': 1}}
+{'Mariana Gras': {'Total': 1, 'Exagerado': 1}}
+{'Miguel Lifschitz': {'Total': 1, 'Exagerado': 1}}
+{'Martín Sabbatella': {'Total': 4, 'Falso': 2, 'Verdadero, pero…': 1, 'Engañoso': 1}}
+{'Victoria Donda': {'Total': 2, 'Exagerado': 1, 'Verdadero': 1}}
+{'Laura Alonso': {'Total': 1, 'Engañoso': 1}}
+{'Ricardo Alfonsín': {'Total': 6, 'Falso': 1, 'Verdadero, pero…': 3, 'Engañoso': 2}}
+{'Mariano Cascallares': {'Total': 0}}
+{'Sergio Massa': {'Engañoso': 5, 'Total': 20, 'Insostenible': 1, 'Verdadero, pero…': 4, 'Falso': 4, 'Verdadero': 1, 'Exagerado': 4, 'Inchequeable': 1}}
+{'Federico Sturzenegger': {'Total': 1, 'Verdadero': 1}}
+{'Antonio Bonfatti': {'Total': 3, 'Exagerado': 1, 'Verdadero': 2}}
+{'Luis Majul': {'Total': 1, 'Falso': 1}}
+{'Jorge Di Lello': {'Total': 1, 'Verdadero, pero…': 1}}
+{'Ricardo Pignanelli': {'Total': 1, 'Falso': 1}}
+{'Fernando Sánchez': {'Total': 0}}
+{'YPF': {'Discutible': 1, 'Apresurado': 1, 'Verdadero': 2, 'Exagerado': 2, 'Verdadero, pero…': 2, 'Total': 9, 'Engañoso': 1}}
+{'Rubén Sobrero': {'Total': 1, 'Verdadero': 1}}
+{'Myriam Bregman': {'Total': 0}}
+{'Walter Festa': {'Total': 0}}
+{'Fernando Niembro': {'Total': 2, 'Falso': 1, 'Verdadero': 1}}
+{'Alieto Guadagni': {'Discutible': 1, 'Exagerado': 1, 'Total': 2}}
+{'Amado Boudou': {'Total': 6, 'Falso': 4, 'Insostenible': 1, 'Engañoso': 1}}
+{'Ricardo Casal': {'Total': 1, 'Verdadero, pero…': 1}}
+{'Juan Zabaleta': {'Total': 0}}
+{'Isela Costantini': {'Total': 1, 'Verdadero': 1}}
+{'Patricio Mussi': {'Total': 0}}
+{'Roberto Baradel': {'Total': 1, 'Verdadero': 1}}
+{'Canal 7': {'Total': 1, 'Falso': 1}}
+{'Javier De Luca': {'Total': 0}}
+{'CGT': {'Total': 4, 'Falso': 2, 'Apresurado': 1, 'Engañoso': 1}}
+{'Jorge Altamira': {'Verdadero': 1, 'Total': 3, 'Verdadero, pero…': 2}}
+{"'El Chapo' Guzmán": {'Total': 0}}
+{'Martín Caparrós': {'Discutible': 1, 'Verdadero': 1, 'Total': 2}}
+{'Nicolás Sarkozy': {'Discutible': 1, 'Total': 1}}
+{'AFIP': {'Total': 2, 'Falso': 2}}
+{'Facundo Moyano': {'Verdadero, pero…': 2, 'Total': 3, 'Verdadero': 1}}
+{'Julio De Vido': {'Verdadero': 1, 'Total': 5, 'Verdadero, pero…': 1, 'Engañoso': 3}}
+{'María Eugenia Vidal': {'Apresurado': 1, 'Total': 6, 'Exagerado': 1, 'Verdadero': 3, 'Engañoso': 1}}
+{'Jaime Linares': {'Total': 0}}
+{'Gabriela Michetti': {'Total': 7, 'Falso': 2, 'Verdadero': 1, 'Insostenible': 2, 'Engañoso': 2}}
+{'Alejandra Gils Carbó': {'Total': 1, 'Verdadero': 1}}
+{'Jorge Macri': {'Total': 1, 'Falso': 1}}
+{'Mauricio Macri': {'Engañoso': 5, 'Discutible': 1, 'Falso': 13, 'Apresurado': 1, 'Insostenible': 1, 'Verdadero': 6, 'Exagerado': 4, 'Verdadero, pero…': 7, 'Total': 41, 'Inchequeable': 3}}
+{'Ramiro Tagliaferro': {'Total': 0}}
+{'Jorge Taiana': {'Total': 2, 'Exagerado': 1, 'Verdadero': 1}}
+{'Daniel Peralta': {'Total': 1, 'Verdadero': 1}}
+{'Rosendo Fraga': {'Total': 1, 'Verdadero': 1}}
+{'Luis Zamora': {'Discutible': 1, 'Total': 1}}
+{'Alfonso Prat Gay': {'Discutible': 1, 'Exagerado': 1, 'Verdadero': 2, 'Falso': 2, 'Verdadero, pero…': 2, 'Total': 10, 'Engañoso': 2}}
+{'Adolfo Rodríguez Saá': {'Total': 5, 'Falso': 2, 'Verdadero': 1, 'Engañoso': 2}}
+{'Diego Valenzuela': {'Total': 0}}
+{'Fernando Gray': {'Total': 0}}
+{'Sergio Bergman': {'Total': 0}}
+{'Orlando': {'Total': 0}}
+{'Cristian Ritondo': {'Total': 1, 'Falso': 1}}
+{'Daniel Hadad': {'Total': 0}}
+{'Julián Dindart': {'Total': 1, 'Insostenible': 1}}
+{'Darío Giustozzi': {'Total': 1, 'Engañoso': 1}}
+{'Ricardo Jaime': {'Total': 0}}
+{'Julio Cobos': {'Total': 3, 'Exagerado': 1, 'Verdadero': 1, 'Engañoso': 1}}
+{'Martín Redrado': {'Total': 1, 'Falso': 1}}
+{'Iván Petrella': {'Total': 1, 'Engañoso': 1}}
+{'Carlos Tomada': {'Total': 5, 'Falso': 1, 'Verdadero': 1, 'Exagerado': 1, 'Engañoso': 2}}
+{'Carlos Menem': {'Discutible': 1, 'Total': 1}}
+{'Omar PrÍncipe': {'Total': 1, 'Insostenible': 1}}
+{'Sergio Szpolski': {'Total': 1, 'Insostenible': 1}}
+{'Jorge Lanata': {'Total': 4, 'Falso': 1, 'Verdadero': 2, 'Engañoso': 1}}
+{'Felipe Rodríguez Laguens': {'Total': 1, 'Verdadero': 1}}
+{'Mempo Giardinelli': {'Total': 1, 'Exagerado': 1}}
+{'Gabriel Katopodis': {'Total': 0}}
+{'Gerry Garbulsky': {'Total': 1, 'Falso': 1}}
+{'Alberto Rodríguez Saá': {'Discutible': 1, 'Verdadero': 2, 'Total': 5, 'Engañoso': 2}}
+{'Héctor Méndez': {'Total': 1, 'Verdadero': 1}}
+{'Alejandro Granados': {'Total': 0}}
+{'José Alperovich': {'Total': 2, 'Falso': 1, 'Exagerado': 1}}
+{'Félix Díaz': {'Total': 1, 'Verdadero': 1}}
+{'Carlos Melconian': {'Total': 1, 'Falso': 1}}
+{'El Cronista': {'Discutible': 1, 'Total': 1}}
+{'Silvia Majdalani': {'Total': 1, 'Falso': 1}}
+{'Carlos Zannini': {'Total': 2, 'Falso': 1, 'Verdadero': 1}}
+{'Julio Piumato': {'Discutible': 1, 'Falso': 1, 'Verdadero': 1, 'Total': 3}}
+{'Diego Bossio': {'Verdadero, pero…': 1, 'Discutible': 1, 'Verdadero': 2, 'Total': 4}}
+{'Lino Barañao': {'Total': 1, 'Verdadero': 1}}
+{'Franco Macri': {'Total': 0}}
+{'Aerolíneas Argentinas': {'Total': 5, 'Falso': 3, 'Verdadero': 1, 'Exagerado': 1}}
+{'Carlos Fayt': {'Total': 0}}
+{'Fernando Iglesias': {'Total': 1, 'Insostenible': 1}}
+{'Juan Cabandié': {'Total': 2, 'Verdadero, pero…': 1, 'Engañoso': 1}}
+{'Gustavo Menéndez': {'Total': 0}}
+{'Ernesto Sanz': {'Discutible': 1, 'Inchequeable': 1, 'Exagerado': 1, 'Verdadero, pero…': 2, 'Total': 6, 'Verdadero': 1}}
+{'Sergio Urribarri': {'Discutible': 1, 'Total': 1}}
+{'Alberto Nisman': {'Total': 0}}
+{'Barack Obama': {'Total': 2, 'Insostenible': 1, 'Apresurado': 1}}
+{'Germán Moldes': {'Total': 0}}
+{'Marcos Aguinis': {'Total': 1, 'Insostenible': 1}}
+{'Rafael Bielsa': {'Discutible': 1, 'Total': 1}}
+{'Martín Lousteau': {'Verdadero, pero…': 1, 'Discutible': 1, 'Verdadero': 5, 'Total': 7}}
+{'Juan Manuel Urtubey': {'Total': 5, 'Falso': 2, 'Apresurado': 1, 'Engañoso': 2}}
+{'Juan José Llach': {'Total': 1, 'Verdadero, pero…': 1}}
+{'Jorge Sapag': {'Total': 3, 'Falso': 1, 'Verdadero': 1, 'Engañoso': 1}}
+{'José Manuel de la Sota': {'Total': 4, 'Falso': 1, 'Exagerado': 1, 'Engañoso': 2}}
+{'Juan Carr': {'Total': 1, 'Verdadero +': 1}}
+{'Patricia Bullrich': {'Falso': 1, 'Exagerado': 1, 'Total': 2}}
+{'Sergio Spolszki': {'Total': 0}}
+{'Manuela Castañeira': {'Total': 1, 'Verdadero': 1}}
+{'Guillermo Dietrich': {'Total': 1, 'Verdadero': 1}}
+{'Federico Pinedo': {'Discutible': 1, 'Verdadero': 1, 'Total': 2}}
+{'Gerardo Morales': {'Discutible': 1, 'Total': 1}}
+{'Carlos Reutemann': {'Falso': 1, 'Exagerado': 1, 'Total': 2}}
+{'Víctor de Gennaro': {'Total': 2, 'Exagerado': 2}}
+{'Nora De Lucía': {'Total': 1, 'Falso': 1}}
+{'Néstor Kirchner': {'Total': 5, 'Falso': 4, 'Insostenible': 1}}
+{'Omar Perotti': {'Total': 1, 'Verdadero': 1}}
+{'Marcelo Tinelli': {'Total': 0}}
+{'Jorge Argüello': {'Total': 1, 'Verdadero': 1}}
+{'Débora Giorgi': {'Falso': 1, 'Insostenible': 1, 'Total': 5, 'Exagerado': 1, 'Engañoso': 2}}
+{'Domingo Cavallo': {'Total': 1, 'Falso': 1}}
+{'Marcelo Rubinstein': {'Total': 1, 'Verdadero': 1}}
+{'Leonardo Nardini': {'Total': 0}}
+{'Julio Alak': {'Discutible': 3, 'Insostenible': 2, 'Total': 9, 'Engañoso': 4}}
+{'Daniel Gollán': {'Total': 1, 'Verdadero': 1}}
+{'Emilio Basavilbaso': {'Total': 1, 'Engañoso': 1}}
+{'Alcira Argumedo': {'Total': 1, 'Engañoso': 1}}
+{'Jorge Lemus': {'Total': 1, 'Verdadero, pero…': 1}}
+{'Claudio Lozano': {'Verdadero, pero…': 1, 'Discutible': 1, 'Verdadero': 3, 'Total': 5}}
+{'Alberto Fernández': {'Total': 1, 'Falso': 1}}
+{'Luis Naidenoff': {'Total': 1, 'Insostenible': 1}}
+{'Página 12': {'Discutible': 1, 'Verdadero': 1, 'Exagerado': 1, 'Verdadero, pero…': 1, 'Total': 7, 'Engañoso': 3}}
+{'Diego Santilli': {'Falso': 2, 'Exagerado': 1, 'Total': 5, 'Engañoso': 2}}
+{'Mariano Rajoy': {'Total': 1, 'Falso': 1}}
+{'Luis D Elía': {'Total': 1, 'Exagerado': 1}}
+{'Enrique Peña Nieto': {'Total': 1, 'Verdadero, pero…': 1}}
+{'Guillermo Montenegro': {'Total': 1, 'Insostenible': 1}}
+{'Francisco de Narváez': {'Discutible': 1, 'Falso': 1, 'Verdadero': 1, 'Insostenible': 2, 'Total': 5}}
+{'Juan Manuel Abal Medina': {'Total': 3, 'Falso': 1, 'Insostenible': 1, 'Engañoso': 1}}
+{'Víctor Hugo Morales': {'Total': 1, 'Falso': 1}}
+{'Néstor Pitrola': {'Total': 0}}
+{'Cristina Fernández de Kirchner': {'Discutible': 7, 'Falso': 19, 'Verdadero, pero…': 14, 'Insostenible': 7, 'Verdadero': 16, 'Total': 86, 'Exagerado': 9, 'Engañoso': 14}}
+{'Roberto Lavagna': {'Verdadero': 1, 'Total': 3, 'Falso': 1, 'Verdadero, pero…': 1}}
+{'Alberto Sileoni': {'Total': 6, 'Exagerado': 1, 'Verdadero': 2, 'Insostenible': 2, 'Engañoso': 1}}
+{'Cristóbal López': {'Total': 0}}
+{'Horacio Rosatti': {'Total': 0}}
+{'Daniel Rafecas': {'Total': 0}}
+{'Juan Manzur': {'Total': 0}}
+{'Oscar Parrilli': {'Total': 1, 'Falso': 1}}
+{'Claudio Bonadío': {'Total': 0}}
+{'Verónica Magario': {'Total': 0}}
+{'Miguel Bein': {'Total': 0}}
+{'Mónica Busetti': {'Total': 1, 'Engañoso': 1}}
+{'Ricardo Wechsler': {'Total': 0}}
+{'Axel Kicillof': {'Total': 13, 'Insostenible': 2, 'Verdadero': 2, 'Falso': 2, 'Verdadero, pero…': 2, 'Exagerado': 3, 'Engañoso': 2}}
+{'Joaquín De la Torre': {'Total': 0}}
+{'Graciela Camaño': {'Total': 1, 'Verdadero, pero…': 1}}
+{'Hugo Yasky': {'Total': 1, 'Falso': 1}}
+{'Nelson Castro': {'Total': 1, 'Verdadero, pero…': 1}}
+{'AFA': {'Total': 1, 'Falso': 1}}
+{'Eugenio Zaffaroni': {'Total': 5, 'Falso': 1, 'Verdadero, pero…': 2, 'Insostenible': 1, 'Exagerado': 1}}
+{'Gustavo Posse': {'Total': 0}}
+{'Alberto Descalzo': {'Total': 0}}
+{'Mario Pergolini': {'Total': 1, 'Insostenible': 1}}
+{'Patricia Giménez': {'Total': 1, 'Verdadero': 1}}
+{'Carlos Heller': {'Total': 1, 'Falso': 1}}
+{'Marcelo Stubrin': {'Total': 1, 'Exagerado': 1}}
+{'Norberto Yauhar': {'Total': 2, 'Falso': 1, 'Verdadero, pero…': 1}}
+{'Agustín Rossi': {'Total': 4, 'Falso': 1, 'Verdadero, pero…': 1, 'Insostenible': 1, 'Engañoso': 1}}
+{'José Sbatella': {'Total': 0}}
+{'Raúl Othacehé': {'Total': 0}}
+{'Fernando de la Rúa': {'Total': 1, 'Engañoso': 1}}
+{'Rafael Di Zeo': {'Total': 1, 'Falso': 1}}
+{'Eduardo Amadeo': {'Total': 1, 'Verdadero': 1}}
+{'César Milani': {'Total': 2, 'Falso': 1, 'Engañoso': 1}}
+{'Fernando Solanas': {'Discutible': 2, 'Falso': 1, 'Verdadero, pero…': 3, 'Exagerado': 2, 'Verdadero': 2, 'Total': 10}}
+{'Carlos Kunkel': {'Total': 1, 'Falso': 1}}
+{'Alberto Lugones': {'Total': 1, 'Insostenible': 1}}
+{'Hermes Binner': {'Discutible': 2, 'Insostenible': 1, 'Verdadero': 4, 'Falso': 3, 'Verdadero, pero…': 1, 'Total': 13, 'Exagerado': 2}}
+{'León Arslanián': {'Total': 1, 'Verdadero, pero…': 1}}
+{'678': {'Total': 1, 'Engañoso': 1}}
+{'Alejandro Arlía': {'Total': 1, 'Verdadero': 1}}
+{'Florencio Randazzo': {'Discutible': 1, 'Verdadero': 4, 'Total': 6, 'Engañoso': 1}}
+{'Hugo Biolcati': {'Discutible': 1, 'Exagerado': 1, 'Total': 2}}
+{'La Nación': {'Total': 25, 'Insostenible': 7, 'Apresurado': 1, 'Verdadero, pero…': 1, 'Falso': 4, 'Verdadero': 4, 'Exagerado': 2, 'Engañoso': 6}}
+{'Pablo Javkin': {'Total': 1, 'Verdadero': 1}}
+{'María José Lubertino': {'Total': 0}}
+{'Carlos Pagni': {'Discutible': 1, 'Falso': 1, 'Apresurado': 1, 'Total': 4, 'Engañoso': 1}}
+{'Guillermo Pereyra': {'Total': 1, 'Falso': 1}}
+{'Margarita Stolbizer': {'Total': 11, 'Exagerado': 2, 'Inchequeable': 2, 'Falso': 1, 'Verdadero, pero…': 2, 'Verdadero': 4}}
+{'Luis Novaresio': {'Total': 1, 'Exagerado': 1}}
+{'Horacio Verbitsky': {'Total': 2, 'Falso': 1, 'Engañoso': 1}}
+{'Infobae': {'Discutible': 1, 'Exagerado': 1, 'Total': 3, 'Engañoso': 1}}
+{'Maurice Closs': {'Total': 2, 'Verdadero +': 2}}
+{'Mariano Grondona': {'Total': 1, 'Falso': 1}}
+{'Roberto Carlés': {'Total': 1, 'Verdadero, pero…': 1}}
+{'Augusto Costa': {'Total': 1, 'Engañoso': 1}}
+{'Eduardo Costantini': {'Discutible': 1, 'Total': 1}}
+{'David Cameron': {'Total': 1, 'Verdadero': 1}}
+{'Gabriela Cerruti': {'Total': 1, 'Exagerado': 1}}
+{'Eduardo Duhalde': {'Total': 5, 'Falso': 2, 'Verdadero': 1, 'Insostenible': 1, 'Engañoso': 1}}
+{'Felipe Solá': {'Discutible': 1, 'Falso': 2, 'Total': 3}}
+{'Miguel Del Sel': {'Total': 2, 'Insostenible': 1, 'Verdadero, pero…': 1}}
+{'Luis María Cabral': {'Total': 0}}
+{'Esteban Righi': {'Total': 0}}
+{'Oscar Aguad': {'Total': 2, 'Falso': 2}}
+{'Elisa Carrió': {'Discutible': 1, 'Exagerado': 1, 'Insostenible': 1, 'Verdadero, pero…': 1, 'Falso': 2, 'Inchequeable': 1, 'Total': 7}}
+{'Adelmo Gabbi': {'Total': 1, 'Engañoso': 1}}
+{'Martín Insaurralde': {'Total': 3, 'Falso': 1, 'Engañoso': 2}}
+{'Abel Albino': {'Total': 1, 'Falso': 1}}
+{'Juliana Di Tullio': {'Total': 1, 'Verdadero': 1}}
+{'Martiniano Molina': {'Total': 0}}
+{'Marcelo Bonelli': {'Total': 0}}
+{'Juan José Mussi': {'Total': 1, 'Insostenible': 1}}
+{'Nicolás Caputo': {'Total': 0}}
+{'Ricardo Darín': {'Total': 1, 'Verdadero': 1}}
+{'Eduardo Freiler': {'Total': 0}}
+{'Rogelio Frigerio': {'Falso': 1, 'Exagerado': 2, 'Total': 3}}
+{'Nilda Garré': {'Total': 2, 'Insostenible': 1, 'Verdadero, pero…': 1}}
+{'Juan Pablo Schiavi': {'Total': 1, 'Engañoso': 1}}
+{'Elena Highton de Nolasco': {'Total': 2, 'Verdadero': 2}}
+{'Aníbal Fernández': {'Discutible': 2, 'Verdadero': 1, 'Falso': 2, 'Verdadero, pero…': 2, 'Total': 11, 'Engañoso': 4}}
+{'Miguel Pesce': {'Discutible': 1, 'Total': 1}}
+{'Joseph Goebbels': {'Total': 1, 'Insostenible': 1}}
+{'José Ignacio de Mendiguren': {'Verdadero, pero…': 1, 'Total': 2, 'Verdadero': 1}}
+{'Fernando Marín': {'Total': 0}}
+{'Néstor Grindetti': {'Total': 0}}
+{'Alfredo Scoccimarro': {'Total': 1, 'Engañoso': 1}}
+{'FIT': {'Total': 2, 'Verdadero': 2}}
+{'Gabriel Mariotto': {'Total': 3, 'Falso': 1, 'Verdadero': 2}}
+{'Juan José Aranguren': {'Verdadero, pero…': 1, 'Total': 2, 'Verdadero': 1}}
+{'Revista Fortuna': {'Total': 1, 'Engañoso': 1}}
+{'Héctor Recalde': {'Total': 3, 'Exagerado': 2, 'Verdadero, pero…': 1}}
+{'Julián Ercolini': {'Total': 0}}
+{'Miguel Galuccio': {'Total': 1, 'Verdadero, pero…': 1}}
+{'Fernando Espinoza': {'Total': 1, 'Falso': 1}}
+{'Gerardo Milman': {'Total': 0}}
+{'Héctor Timerman': {'Verdadero, pero…': 1, 'Total': 4, 'Insostenible': 1, 'Verdadero': 1, 'Engañoso': 1}}
+{'tiempo argentino': {'Total': 2, 'Verdadero': 2}}
+{'Gilberto Alegre': {'Total': 0}}
+{'Hugo Moyano': {'Apresurado': 1, 'Total': 6, 'Falso': 2, 'Verdadero': 2, 'Engañoso': 1}}
+{'Marcos Peña': {'Total': 0}}
+{'Miguel Pichetto': {'Total': 1, 'Engañoso': 1}}
+{'María Eugenia Estenssoro': {'Total': 1, 'Engañoso': 1}}
+{'Daniel Reposo': {'Total': 0}}
+{'Lula da Silva': {'Total': 1, 'Engañoso': 1}}
+{'Jorge Ferraresi': {'Total': 0}}
+{'Juan José Campanella': {'Total': 1, 'Verdadero': 1}}
+{'Claudio Belocopitt': {'Discutible': 1, 'Total': 1}}
+{'Hernán Lombardi': {'Total': 2, 'Exagerado': 2}}
+{'Pablo Micheli': {'Falso': 1, 'Exagerado': 1, 'Total': 3, 'Engañoso': 1}}
+{'Mariano Recalde': {'Total': 6, 'Exagerado': 1, 'Verdadero': 1, 'Falso': 1, 'Verdadero, pero…': 1, 'Engañoso': 2}}
+{'Marcelo Ramal': {'Total': 0}}
+{'Pablo Ferreyra': {'Total': 0}}
+{'Fernando Navarro': {'Total': 1, 'Verdadero, pero…': 1}}
+{'Julio Zamora': {'Total': 0}}
+{'Jorge Capitanich': {'Total': 11, 'Apresurado': 1, 'Verdadero, pero…': 2, 'Falso': 2, 'Verdadero': 2, 'Engañoso': 4}}
+{'Milagro Sala': {'Total': 0}}
+{'Jaime Durán Barba': {'Total': 1, 'Engañoso': 1}}
+{'Daniel Scioli': {'Discutible': 2, 'Falso': 5, 'Verdadero': 10, 'Insostenible': 7, 'Verdadero, pero…': 4, 'Total': 33, 'Exagerado': 4, 'Inchequeable': 1}}
+{'Luis Miguel Etchevehere': {'Verdadero, pero…': 2, 'Total': 8, 'Exagerado': 4, 'Verdadero': 2}}
+{'Vilma Ibarra': {'Discutible': 1, 'Total': 1}}
+{'Ángela Merkel': {'Total': 1, 'Insostenible': 1}}
+{'Gerónimo Venegas': {'Total': 0}}
+{'José Cano': {'Total': 1, 'Verdadero': 1}}
+{'Roberto Navarro': {'Total': 1, 'Falso': 1}}
+{'Roberto Feletti': {'Discutible': 1, 'Falso': 1, 'Exagerado': 1, 'Verdadero, pero…': 1, 'Total': 6, 'Engañoso': 2}}
+{'Julio Pereyra': {'Total': 1, 'Falso': 1}}
+{'Luis Juez': {'Total': 2, 'Insostenible': 2}}
+{'Ricardo Lorenzetti': {'Verdadero, pero…': 1, 'Total': 3, 'Falso': 1, 'Verdadero': 1}}
+{'Nicolás Del Caño': {'Total': 1, 'Verdadero': 1}}
+{'Malena Galmarini': {'Total': 1, 'Verdadero': 1}}
+{'Adrián Paenza': {'Total': 1, 'Verdadero': 1}}
+{'Sergio Berni': {'Total': 5, 'Falso': 2, 'Insostenible': 1, 'Engañoso': 2}}
+{'Horacio Rodríguez Larreta': {'Total': 7, 'Exagerado': 2, 'Verdadero': 1, 'Falso': 2, 'Verdadero, pero…': 1, 'Engañoso': 1}}
+{'Florencia Saintout': {'Total': 1, 'Verdadero': 1}}
+{'Grupo Clarín': {'Discutible': 1, 'Falso': 3, 'Verdadero, pero…': 4, 'Insostenible': 8, 'Verdadero': 3, 'Total': 25, 'Exagerado': 1, 'Engañoso': 5}}
+{'Roberto Pianelli': {'Total': 2, 'Verdadero': 2}}
